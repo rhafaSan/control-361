@@ -1,6 +1,6 @@
 import React from "react";
 
-type VehicleDetailsProps = {
+export type VehicleDetailsProps = {
   plate: string;
   fleet: string;
   datetime: string;
