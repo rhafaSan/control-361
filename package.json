@@ -8,8 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "build:tailwind": "tailwindcss init",
-    "cypress": "^9.7.0"
+    "build:tailwind": "tailwindcss init"
   },
   "dependencies": {
     "@react-google-maps/api": "^2.20.6",
